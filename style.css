@@ -1,0 +1,35 @@
+table {
+    border-collapse: collapse;
+    width: 50%;
+    border-bottom: 1px solid #123456;
+    text-align: center;
+}
+th {
+  border-collapse: collapse;
+  /* border: 1px solid white; */
+  background-color: darkslateblue;
+  color: white;
+  width: 50%;
+}
+
+.trClass1 {
+    color:#123456;
+    padding: 10px;
+    background-color: white;
+}
+
+.trClass2 {
+    color: midnightblue;
+    padding: 10px;
+    background-color: lightgrey;
+}
+
+.trClass3 {
+    color:#123456;
+    padding: 10px;
+    background-color: white;
+}
+
+tr {
+    width: 20px;
+}
